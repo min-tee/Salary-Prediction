@@ -81,3 +81,24 @@ yearsExperience
 
 *EDA shows that features - job type, degree, major, industry, years of experience impact salary positively. Miles from metrolpolis is negatively correlated and company is not correlated.*
 
+
+## Devlop
+
+
+**Baseline Model**
+
+Developed a simple baseline model with Mean Squared Error(MSE) between salary and features, jobType and industry. 
+MSE with industry : **1367.12**
+MSE with jobType : **963.93**
+
+Goal is to develop models with reduced MSE values. 
+
+
+
+
+
+
+
+
+
+
