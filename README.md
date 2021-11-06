@@ -88,7 +88,9 @@ yearsExperience
 **Baseline Model**
 
 Developed a simple baseline model with Mean Squared Error(MSE) between salary and features, jobType and industry. 
+
 MSE with industry : **1367.12**
+
 MSE with jobType : **963.93**
 
 Goal is to develop models with reduced MSE values. 
