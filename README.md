@@ -42,20 +42,26 @@ salary : Target variable. Salary paid in thousands US dollars.
 ![images](https://github.com/min-tee/Salary-Prediction/blob/af47add8e46a1290d559eb301869e34444e0a52f/images/salary_dist.png)
 
 **Salary vs Features**
+
  degree
 ![images](https://github.com/min-tee/Salary-Prediction/blob/fefa8e64c7f47780b179644c6d58ed239d627fe7/images/salary_vs_degree.PNG)
+
 
 industry 
 ![images](https://github.com/min-tee/Salary-Prediction/blob/7d72c65bdc5dc89e21a373d1ccfc25d0256d9283/images/salary_vs_industry.png)
 
+
 jobType
 ![images](https://github.com/min-tee/Salary-Prediction/blob/b5d44ee683a9e4d36b64b4e10ca2c99c860b2a7f/images/salary_vs_jobType.PNG)
+
 
 major
 ![images](https://github.com/min-tee/Salary-Prediction/blob/b5d44ee683a9e4d36b64b4e10ca2c99c860b2a7f/images/salary_vs_major.PNG)
 
+
 milesFromMetropolis
 ![images](https://github.com/min-tee/Salary-Prediction/blob/b5d44ee683a9e4d36b64b4e10ca2c99c860b2a7f/images/salary_vs_milesFromMetropolis.PNG)
+
 
 yearsExperience
 ![images](https://github.com/min-tee/Salary-Prediction/blob/b5d44ee683a9e4d36b64b4e10ca2c99c860b2a7f/images/salary_vs_yearsExperience.PNG)
