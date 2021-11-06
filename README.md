@@ -37,9 +37,12 @@ milesFromMetropolis : Distance from the Metropolitan city, in miles.
 salary : Target variable. Salary paid in thousands US dollars. 
 
 **EDA**
-- Salary Distribution
+Salary Distribution
 ![images](https://github.com/min-tee/Salary-Prediction/blob/af47add8e46a1290d559eb301869e34444e0a52f/images/salary_dist.png)
-- 
+
+Salary vs Features
+
+Degree : ![degree] (https://github.com/min-tee/Salary-Prediction/blob/fefa8e64c7f47780b179644c6d58ed239d627fe7/images/salary_vs_degree.PNG)
 
 
 
