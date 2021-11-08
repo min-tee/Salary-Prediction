@@ -100,23 +100,24 @@ Goal is to develop models with reduced MSE values.
 
 
 **Models**
-- Linear Regression
+**Linear Regression**
 
 ![images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/lin_reg.png)
 
 
-- Random Forest
+**Random Forest**
 
 ![images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/rf_reg.png)
 
 
 
-- Gradient Boosting
+**Gradient Boosting**
 
 ![images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/gb_reg.png)
 
 
 **Model Evaluation**
+
 Below table shows the MSE and R-sqaured for each model. 
 
 ![images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/models_mse_r2.PNG)
