@@ -1,7 +1,7 @@
 # Salary-Prediction
 
 ## Define
-The objective of Salary Prediction project are to perfrom EDA, create models and  uncover factors that contribute most to the salary.
+The objective of Salary Prediction project is to perfrom EDA, create models and  uncover factors that contribute most to the salary. The project code is available to this link, [Salary Prediction](https://github.com/min-tee/Salary-Prediction/blob/1628a2f92b8a848325cf44fc3fb2bfa20e594370/Salary_Prediction.ipynb)
 
 ## Discover
 Tools Used : Google Colab
