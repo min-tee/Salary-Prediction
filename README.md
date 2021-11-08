@@ -4,17 +4,19 @@
 The objective of Salary Prediction project are to perfrom EDA, create models and  uncover factors that contribute most to the salary
 
 ## Discover
-- Tools Used : Google Colab
-- Packages : pandas, numpy, matplotlib, seaborn, sklearn
-- Directories : datasets - test, train data used in the project, images - Graphs of EDA and models
+Tools Used : Google Colab
+
+Packages : pandas, numpy, matplotlib, seaborn, sklearn
+
+Directories : datasets - test, train data used in the project, images - Graphs of EDA and models
 
 **Data**
 
-train_features.csv: Each row represents an observation for each individual job posting. The "jobId" column is unique to each job posting and the other columns are the different features of the job postings. The file has eight(8) columns.
+train_features.csv: Each row represents an observation. There are 1 milion records and 9 features and the "jobId" column is unique to each observation. 
 
-train-salaries.csv: Each row is a unique job posting with its corresponding salary. The file contains two (2) columns. The file is combined with train_features.csv to train the machine learning models.
+train-salaries.csv: Each row is a unique  with jobID and its corresponding salary. The file is combined with train_features.csv to train the machine learning models.
 
-test_features.csv: Similar to train_features.csv, each row in this file is metadata for each individual job posting. The file has eight (8) columns and is used to predict the new salaries. 
+test_features.csv: Similar to train_features.csv except it is missing salary which will be predicted by the models.  
 
 **Features**
 
