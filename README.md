@@ -102,24 +102,24 @@ Goal is to develop models with reduced MSE values.
 **Models**
 - Linear Regression
 
-[images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/lin_reg.png)
+![images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/lin_reg.png)
 
 
 - Random Forest
 
-[images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/rf_reg.png)
+![images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/rf_reg.png)
 
 
 
 - Gradient Boosting
 
-[images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/gb_reg.png)
+![images](https://github.com/min-tee/Salary-Prediction/blob/724859a7ff7b098ecfc8de97b0730725d750c125/images/gb_reg.png)
 
 
 **Model Evaluation**
 Below table shows the MSE and R-sqaured for each model. 
 
-[images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/models_mse_r2.PNG)
+![images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/models_mse_r2.PNG)
 
 
 ## Deploy
@@ -127,7 +127,7 @@ The best model is **Gradient Boosting Regressor** have the lowest MSE and highes
 
 Predicted salary is being saved as predicted_salary.csv. 
 
-[images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/predicted_salaries.PNG)
+![images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/predicted_salaries.PNG)
 
 
 
@@ -135,6 +135,6 @@ Predicted salary is being saved as predicted_salary.csv.
 
 Below bargraph shows the important features in descending order. The years of experience is the factor that contributes most for prediction of salary for the given post. Other features such as distance from the metropolis, job type and degree are also important. 
 
-[images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/feature_importance.png)
+![images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/feature_importance.png)
 
 
