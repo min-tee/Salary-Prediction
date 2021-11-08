@@ -1,7 +1,7 @@
 # Salary-Prediction
 
 ## Define
-The objective of Salary Prediction project are to perfrom EDA, create models and  uncover factors that contribute most to the salary
+The objective of Salary Prediction project are to perfrom EDA, create models and  uncover factors that contribute most to the salary.
 
 ## Discover
 Tools Used : Google Colab
@@ -124,7 +124,7 @@ Below table shows the MSE and R-sqaured for each model.
 
 
 ## Deploy
-The best model is **Gradient Boosting Regressor** have the lowest MSE and highest R-sqaured value, it is thus selected for the deployment for test set. 
+**Gradient Boosting Regressor** have the lowest MSE and highest R-sqaured value, it is thus selected for the deployment for test set. 
 
 Predicted salary is being saved as predicted_salary.csv. 
 
