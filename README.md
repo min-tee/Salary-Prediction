@@ -1,7 +1,7 @@
 # Salary-Prediction
 
 ## Define
-The objective of Salary Prediction project is to create predictive model to estimate salaries for future job applicants based on given set of featurees. The project code is available at this link,[Salary Prediction](https://github.com/min-tee/Salary-Prediction/blob/1628a2f92b8a848325cf44fc3fb2bfa20e594370/Salary_Prediction.ipynb)
+The objective of Salary Prediction project is to create predictive model to estimate salaries for future job applicants based on given set of featurees. The project code is available at this link,[Salary Prediction] (https://github.com/min-tee/Salary-Prediction/blob/main/Salary_Prediction.ipynb).
 
 ## Discover
 Tools Used : Google Colab
