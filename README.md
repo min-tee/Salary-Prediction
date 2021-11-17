@@ -1,7 +1,7 @@
 # Salary-Prediction
 
 ## Define
-The objective of Salary Prediction project is to create predictive model to estimate salaries for future job applicants based on given set of featurees. The project code is available at this link,[Salary Prediction](https://github.com/min-tee/Salary-Prediction/blob/main/Salary_Prediction.ipynb).
+The objective of Salary Prediction project is to create predictive model to estimate salaries for future job applicants based on given set of features. The project code is available at this link,[Salary Prediction](https://github.com/min-tee/Salary-Prediction/blob/main/Salary_Prediction.ipynb).
 
 ## Discover
 Tools Used : Google Colab
@@ -118,7 +118,7 @@ Goal is to develop models with reduced MSE values.
 
 **Model Evaluation**
 
-Below table shows the MSE and R-sqaured for each model. 
+Below table shows the MSE and R-squared for each model. 
 
 ![images](https://github.com/min-tee/Salary-Prediction/blob/81acaafb04c1274c58c8a8fb80c07efcd9b7ff58/images/models_mse_r2.PNG)
 
